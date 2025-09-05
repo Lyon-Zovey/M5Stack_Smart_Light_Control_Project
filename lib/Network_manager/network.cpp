@@ -16,7 +16,7 @@ std::map<String, bool> uploadedNames;
 // config of MQTT
 WiFiClient espClient;
 PubSubClient mqttClient(espClient);
-const char* mqtt_server = "******************";;    // Change to your MQTT server
+const char* mqtt_server = "******************";    // Change to your MQTT server
 int mqtt_port = 1883;
 
 static bool data_synced_from_server = false;
