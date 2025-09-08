@@ -1,5 +1,7 @@
 # M5Stack Smart Light Control Project
 
+<img src="https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/471/Build_a_Smart_Light_Control.jpg" width="20%"/> <img src="https://static-cdn.m5stack.com/resource/docs/products/unit/finger/finger_07.webp" width="20%"/>
+
 ## Description
 
 Ever come to the office in the morning… only to find the lights have been on all night?
