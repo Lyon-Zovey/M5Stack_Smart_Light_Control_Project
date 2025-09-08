@@ -1,6 +1,6 @@
 # M5Stack Smart Light Control Project
 
-<img src="https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/471/Build_a_Smart_Light_Control.jpg" width="20%"/>
+<img src="https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/471/Build_a_Smart_Light_Control.jpg" width="70%"/>
 
 ## Description
 
